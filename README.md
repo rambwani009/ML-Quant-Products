@@ -11,7 +11,7 @@ Products above demonstrate my Python skills and knowledge around understanding o
 
 GenAI LLM Products (Non -Quant)
 1) LLM Powered Assistant -  Your own facility assistant powered by LLM and RAG
-2) Predictive Maintanence - Upload sensor data and get instant health status of the sensor by leveraging
+2) Predictive Maintanence - Upload sensor data and get instant health status of the sensor by leveraging LLMs and RAG
 
 Note For Hiring Managers:  I'll make the code public for specified product for short period on request via email at rambwani009@gmail.com
 
