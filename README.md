@@ -14,29 +14,35 @@ Note For Hiring Managers:  I'll make the code public for specified product for s
 https://github.com/user-attachments/assets/a99f2416-0da4-4622-b344-69a0f9e6131c
 
 
+2) Equity Trade and Risk Analytics
 
 
-2) Crypto Scanner (Python) – Get regular updates of coins that fit the trader’s scanning criteria and receive them on your phone
+https://github.com/user-attachments/assets/55601285-000d-4e3c-9206-bcec1c21f98c
+
+
+
+
+3) Crypto Scanner (Python) – Get regular updates of coins that fit the trader’s scanning criteria and receive them on your phone
 
 
 https://github.com/user-attachments/assets/92aedcfe-eb2e-44ee-9e8d-b655e61698b1
 
 
 
-3) Multi Asset Scanner (Python) – Input your own strategy and receive assets (crypto, FX, commodities, stocks) that fit the criteria
+4) Multi Asset Scanner (Python) – Input your own strategy and receive assets (crypto, FX, commodities, stocks) that fit the criteria
 
 
 https://github.com/user-attachments/assets/a0747cf0-2650-4db3-aba8-2b7fdf8fbca2
 
 
 
-4)	Trade Setup Scanner (Python)– Showcases my abilities on monitoring, simulation environment, paper trading and latency aspects
+5)	Trade Setup Scanner (Python)– Showcases my abilities on monitoring, simulation environment, paper trading and latency aspects
 
 
 https://github.com/user-attachments/assets/8160e80f-4f0d-435e-baff-185dc29b02e8
 
 
-5)	Bitcoin SFP strategy (Pinescript) – showcases a successful trading strategy via pine-script with high winrate and profit factor on a volatile asset
+6)	Bitcoin SFP strategy (Pinescript) – showcases a successful trading strategy via pine-script with high winrate and profit factor on a volatile asset
 
 
 https://github.com/user-attachments/assets/fc4e0a55-7ea0-4754-89b9-40d4ac91aef5
