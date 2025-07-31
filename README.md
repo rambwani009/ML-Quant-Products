@@ -14,10 +14,12 @@ Note For Hiring Managers:  I'll make the code public for specified product for s
 https://github.com/user-attachments/assets/a99f2416-0da4-4622-b344-69a0f9e6131c
 
 
-2) Equity Trade and Risk Analytics
+2) Equity Trade and Risk Analytics - Spot which secutrities are likely being manipulated or high probability of wash-trading
 
 
-https://github.com/user-attachments/assets/55601285-000d-4e3c-9206-bcec1c21f98c
+https://github.com/user-attachments/assets/04bb6b15-0bf0-4a50-993f-eedcaa1fa543
+
+
 
 
 
